@@ -12,7 +12,7 @@
 - Soil Moisture Sensor
 - DHT11 (Temp/Humidity)
 - 5V Relay + Pump
-- [Circuit.png](Circuit.png)
+- [circuit_diagram.png](circuit_diagram.png)
 
 ## Software
 - **IDE**: Arduino IDE (C++)
@@ -29,7 +29,7 @@
 - **Next**: Crop logic (e.g., wheat if moisture < 30%), fertilizer suggestions.
 
 ## Files
-- `SarsabzZameen.ino`: Main code
+- `SarsabzZameen.ino`: Main code of hardware and firebase
 - `Circuit.png`: Diagram
 - `Firebase_Structure.png`: DB snapshot
 - `SarsabzZameen_Report.docx`: Full report
